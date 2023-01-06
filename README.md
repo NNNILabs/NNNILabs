@@ -1,1 +1,1 @@
-My name is NNNI. I'm an electronics hobbyist (and self-proclaimed EE) and have been since I was 13. 
+My name is NNNI. I'm an electronics hobbyist (and self-proclaimed electrical engineer) currently based in Hannover, Germany. My current interests include power electronics, analog circuit design and precision circuits and techniques. I have recently worked on a number of projects along these lines, including linear power supplies (discrete and IC-based), capacitor chargers and multislope ADCs among other things. 
